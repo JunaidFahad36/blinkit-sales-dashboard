@@ -1,29 +1,73 @@
-# Blinkit Sales Dashboard
+# 📊 Blinkit Sales Dashboard (Power BI)
 
-Power BI sales and customer analytics dashboard project.
+A multi-page Power BI dashboard analyzing Blinkit sales performance, customer insights, marketing analytics, and customer feedback trends.
 
-## Dashboard Preview
+The dashboard delivers insights into sales growth, customer behavior, product performance, and business decision-making through interactive visualizations.
 
-### Home Page
-![Home](Screenshot%202026-05-23%20132414.png)
+---
 
-### Sales Overview
-![Sales](Screenshot%202026-05-23%20132436.png)
+# 🚀 Project Highlights
 
-### Customer Insights
-![Customer](Screenshot%202026-05-23%20132511.png)
+- Fully interactive Power BI dashboard
+- Sales growth analysis
+- Customer segmentation insights
+- Marketing performance tracking
+- Feedback and rating analysis
+- KPI monitoring dashboard
+- Interactive slicers and filters
 
-### Marketing Performance
-![Marketing](Screenshot%202026-05-23%20132536.png)
+---
 
-### Feedback Analysis
-![Feedback](Screenshot%202026-05-23%20132555.png)
+# 📁 Repository Contents
 
-## Tools Used
-- Power BI
+- 📘 Power BI Dashboard (.pbix)
+- 🖼 Dashboard Screenshots
+- 📘 README.md
+
+---
+
+# 📊 Dashboard Pages
+
+### 🏠 Home Page
+Project navigation and dashboard overview
+
+### 📈 Sales Overview
+Sales trends, quantity analysis, payment methods, and regional insights
+
+### 👥 Customer Insights
+Customer growth, repeat customers, segmentation, and customer behavior
+
+### 📣 Marketing Performance
+Marketing conversions, clicks, revenue, and campaign analytics
+
+### 💬 Feedback Analysis
+Customer ratings, feedback categories, and review insights
+
+---
+
+# 🔍 Key Insights
+
+- Sales and customer growth comparison
+- Regional sales performance analysis
+- Customer segmentation tracking
+- Marketing conversion monitoring
+- Feedback sentiment and rating analysis
+
+---
+
+# 🛠 Tools Used
+
+- Power BI Desktop
 - Excel
-- Data Analytics
+- Power Query
+- DAX
 - Data Visualization
 
-## Author
-Junaid Fahad
+---
+
+# 👤 Author
+
+**Junaid Fahad**  
+Aspiring Data Analyst
+
+🔗 GitHub: https://github.com/JunaidFahad36
